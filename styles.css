@@ -1,0 +1,33 @@
+body {
+   --background-color: #bbb;
+   --text-color: #000;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: var(--background-color);
+   color: var(--text-color);
+   font-size: 2rem;
+}
+body.red {
+   --background-color: #600;
+   --text-color: #faa;
+}
+body.dark {
+   --background-color: #000;
+   --text-color: #bbb;
+}
+
+button {
+   width: 3rem;
+   height: 3rem;
+   cursor: pointer;
+   border: 0.25rem solid var(--text-color);
+   border-radius: 50%;
+   background-color: #bbb;
+}
+button#red {
+   background-color: #600;
+}
+button#dark {
+   background-color: #000;
+}
