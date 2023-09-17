@@ -8,7 +8,7 @@ Theme selector that stores the selected theme in local storage
 - Theme buttons have borders to remain visible
 
 ## Video Tutorial
-For tutorial: [click here](https://www.youtube.com/watch?v=o58WRv-2dlc)
+For tutorial: [click here](https://www.youtube.com/watch?v=pgGUi19x2o0)
 
 ## Contact
 Created by [@valle572](https://itsvalle.com) - feel free to contact me :)
